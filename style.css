@@ -1,0 +1,41 @@
+.nav li a {
+   text-decoration: none;
+   display: block;
+   color: white;
+   
+   
+}
+
+ ul {
+
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+   
+}
+
+.nav li a{
+   background-color: #952F57;
+   float: left;
+   padding-bottom: 2%;
+    padding-top: 2%;
+	padding-right:7.5%;
+    padding-left:7.5%;
+
+}
+
+.nav li a:hover{
+	background-color: green;
+}
+
+.nav li{
+  text-decoration: none;
+  display: block;
+}
+.nav img {
+
+  background-color: white;
+   float: left;
+   width:7%; 
+   height:7%;
+}
